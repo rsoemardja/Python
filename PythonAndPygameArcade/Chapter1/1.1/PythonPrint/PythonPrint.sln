@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonPrint", "PythonPrint\PythonPrint.pyproj", "{6E78D529-E5D1-468F-86AE-04916D1E1A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E78D529-E5D1-468F-86AE-04916D1E1A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E78D529-E5D1-468F-86AE-04916D1E1A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D419ED-77A4-40C1-A641-0A3CC7144515}
+	EndGlobalSection
+EndGlobal
