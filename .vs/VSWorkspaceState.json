@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Online",
+    "\\Online\\Sudoku",
     "\\PyBites",
-    "\\PyBites\\Bite 102. Infinite loop, input, continue and break",
-    "\\PyBites\\Bite 103. Loop through a dictionary and pluralise a word",
     "\\PyBites\\Bite 104. Split and join",
     "\\PyBites\\Bite 105. Slice and dice",
     "\\PyBites\\Bite 106. Strip out vowels and count the number of replacements",
@@ -11,6 +11,6 @@
     "\\PyBites\\Bite 108. Loop over a dict of namedtuples calculating a total score",
     "\\PythonAndPygameArcade"
   ],
-  "SelectedNode": "\\PyBites\\Bite 108. Loop over a dict of namedtuples calculating a total score",
+  "SelectedNode": "\\Online\\Sudoku\\GUI.py",
   "PreviewInSolutionExplorer": false
 }
